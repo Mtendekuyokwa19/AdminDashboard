@@ -8,7 +8,7 @@
  An Admin dashboard built and architectured using HTML and Vanilla Css. Utilizing mostly the Css layout feature, Grid.Additional to the grid layout, it also includes flexbox layout styling.
 
  ## Demo 🚴
- click [Live Preview](http://127.0.0.1:5500/) to check it out!
+ click [Live Preview](https://mtendekuyokwa19.github.io/AdminDashboard/) to check it out!
 
  ## Technologies and Tools 	🔧
 
@@ -20,15 +20,15 @@
  6. Figma And Figma community
  7. Poe Image Generator
 
- ## What I learned
+ ## What I learned 🎓
  - Working with grid layout styling
  - Co-existing css grid and flexbox
  - setting up layouts with icons
 
- ## Motivation
+ ## Motivation 🧠
  The core motivation was managing and practicinf a new tool,grid. Even though this is not corpate sized project I've learnt and practiced a very essential tool.
 
- ## Credits
+ ## Credits 🤝
 
  - [Google Fonts](https://fonts.google.com/specimen/Quicksand?query=Quicksand).
 

@@ -43,8 +43,6 @@ padding: 3px 12px 0px 20px;
 display: grid;
 grid-template-columns: 2fr 1fr 1fr 1fr;
 grid-template-rows: 1fr 2fr;
-position:sticky;
-top: 0px;
 }
 /* sidebar */
 .container>div:nth-child(2){
