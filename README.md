@@ -28,7 +28,7 @@
  ## Motivation 🧠
  The core motivation was managing and practicinf a new tool,grid. Even though this is not corpate sized project I've learnt and practiced a very essential tool.
 
- Inspiration also came from the catholic saints, even though the information might be inaccurate.
+ Inspiration also came from the catholic saints, even though the information on the dashboardn might be inaccurate.
 
  ## Credits 🤝
 
